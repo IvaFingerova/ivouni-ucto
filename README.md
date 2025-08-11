@@ -1,2 +1,3 @@
-# ivouni-ucto
-Moje účto
+# Quick Expense App
+
+Placeholder README.
